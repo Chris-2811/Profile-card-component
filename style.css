@@ -147,3 +147,25 @@ p {
     display: none;
   }
 }
+
+
+@media (max-width: 400px) {
+  .card {
+    width: 326px;
+    height: 374px;
+  }
+
+  body {
+    min-height: 667px;
+    max-width: 100%;
+    padding: 147px 24px 147px 24px;
+  }
+
+  body::before {
+    display: none;
+  }
+
+  body::after {
+    display: none;
+  }
+}
