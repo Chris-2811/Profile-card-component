@@ -43,7 +43,7 @@ body::before {
   position: absolute;
   width: 978px;
   height: 976px;
-  top: 390px;
+  top: 395px;
   left: 680px;
   background-image: url(images/bg-pattern-bottom.svg);
   background-repeat: none;
@@ -122,5 +122,5 @@ p {
   font-size: 10px;
   line-height: 12.4px;
   letter-spacing: 1.5px;
-  margin-top: 4px;
+  margin-top: 5px;
 }
