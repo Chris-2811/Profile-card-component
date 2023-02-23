@@ -98,12 +98,12 @@ p {
   font-size: 18px;
   color: hsla(228, 10%, 47%, 1);
   line-height: 22.32px;
-  margin-left: 8px;
+  margin-left: 7px;
   font-weight: 400;
 }
 
 .card-bottom .location {
-  margin: 8px 0 27px 0;
+  margin: 8px 0 28px 0;
   font-size: 14px;
   line-height: 17.36px;
 }
@@ -122,5 +122,4 @@ p {
   font-size: 10px;
   line-height: 12.4px;
   letter-spacing: 1.5px;
-  margin-top: 5px;
 }
