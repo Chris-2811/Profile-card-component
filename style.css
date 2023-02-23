@@ -31,8 +31,8 @@ body::after {
   position: absolute;
   width: 978px;
   height: 976px;
-  left: -234.72px;
-  top: -559.71px;
+  left: -294.72px;
+  top: -509.71px;
   background-image: url(images/bg-pattern-top.svg);
   background-repeat: none;
   z-index: -1;
@@ -43,7 +43,7 @@ body::before {
   position: absolute;
   width: 978px;
   height: 976px;
-  top: 400px;
+  top: 380px;
   left: 680px;
   background-image: url(images/bg-pattern-bottom.svg);
   background-repeat: none;
