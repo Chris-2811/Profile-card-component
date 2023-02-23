@@ -31,8 +31,8 @@ body::after {
   position: absolute;
   width: 978px;
   height: 976px;
-  left: -254.72px;
-  top: -539.71px;
+  left: -234.72px;
+  top: -559.71px;
   background-image: url(images/bg-pattern-top.svg);
   background-repeat: none;
   z-index: -1;
@@ -85,7 +85,7 @@ p {
   border-radius: 50%;
   outline: 5px solid #fff;
   position: absolute;
-  top: calc(50% - 96px / 2 + 68px);
+  top: calc(50% - 96px / 2 + 70px);
   left: calc(50% - 96px / 2);
 }
 
@@ -103,10 +103,13 @@ p {
 
 .card-bottom .location {
   margin: 8px 0 28px 0;
+  font-size: 14px;
+  line-height: 17.36px;
 }
 
 .card-bottom .stats {
   padding: 24px 47px 24px 54px;
+  width: 100%;
   height: 88px;
   display: flex;
   justify-content: space-between;
